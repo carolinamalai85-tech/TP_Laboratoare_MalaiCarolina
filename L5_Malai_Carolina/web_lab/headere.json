@@ -1,0 +1,14 @@
+{
+    "Date": "Tue, 20 Oct 2026 12:37:05 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "last-modified": "Tue, 13 Oct 2026 20:08:28 GMT",
+    "allow": "GET, HEAD",
+    "Age": "10047",
+    "cf-cache-status": "HIT",
+    "Content-Encoding": "gzip",
+    "CF-RAY": "a4d812637d3c053c-OTP",
+    "alt-svc": "h3=\":443\"; ma=86400"
+}
